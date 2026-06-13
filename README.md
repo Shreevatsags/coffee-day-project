@@ -112,5 +112,7 @@ Here is your latte ☕. Enjoy!
 
 
 ---
-
+## Designed & Developed by
+* [Shreevatsa](https://github.com/Shreevatsags)
+  
 ⭐ If you found this project useful, consider giving it a star on GitHub!
