@@ -110,10 +110,6 @@ Here is $0.50 in change.
 Here is your latte ☕. Enjoy!
 ```
 
-## 🤝 Contributing
-
-Contributions are welcome. Feel free to fork the repository and submit pull requests.
-
 
 ---
 
