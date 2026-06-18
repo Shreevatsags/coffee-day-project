@@ -25,11 +25,6 @@ coffee-day-project/
 └── LICENSE              # MIT License
 ```
 
-## 🛠️ Technologies Used
-
-* Python 3
-* Object-Oriented Programming (OOP)
-
 ## 📋 Available Commands
 
 | Command    | Description                          |
